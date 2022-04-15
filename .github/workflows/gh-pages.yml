@@ -22,7 +22,7 @@ jobs:
 
 
       - name: Build 
-      run: hugo --minify --baseURL= https://spencerfehlhauer.github.io/GitHubPages
+      run: hugo --minify --baseURL=https://spencerfehlhauer.github.io/GitHubPages
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
