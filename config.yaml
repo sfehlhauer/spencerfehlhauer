@@ -1,4 +1,4 @@
-baseUrl: https://sfehlhauer.github.io/spencerfehlhauer/
+baseUrl: /
 languageCode: en-us
 theme: hello-friend
 copyright: ''
@@ -29,7 +29,7 @@ languages:
     params:
       logo:
         logoText: hello friend
-        logoHomeLink: https://sfehlhauer.github.io/spencerfehlhauer/
+        logoHomeLink: /
     #   or
     #
     #   path: /img/your-example-logo.svg
