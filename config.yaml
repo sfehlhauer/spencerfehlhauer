@@ -45,3 +45,7 @@ languages:
         name: Showcase
         url: /showcase
         weight: 500
+      - identifier: daily_quotes
+        name: Daily Quotes
+        url: /dailyquotes
+        weight: 400
