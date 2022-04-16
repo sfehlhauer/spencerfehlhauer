@@ -29,7 +29,7 @@ languages:
     params:
       logo:
         logoText: hello friend
-        logoHomeLink: /
+        logoHomeLink: https://sfehlhauer.github.io/spencerfehlhauer/
     #   or
     #
     #   path: /img/your-example-logo.svg
