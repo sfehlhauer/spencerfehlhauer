@@ -1,35 +1,35 @@
-baseUrl: /
+baseUrl: https://gamemonkee.com/
 languageCode: en-us
-theme: hello-friend
+theme: feelIt
 copyright: ''
 paginate: 5
 
 params:
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName: posts
+  #contentTypeName: posts
   # "dark" or "light"
-  defaultTheme: dark
+  #defaultTheme: dark
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems: 2
+  #showMenuItems: 2
 
 languages:
   en:
-    title: Your site title
-    subtitle: Your site subtitle
-    keywords: ''
-    menuMore: Show more
-    writtenBy: Written by
-    readMore: Read more
-    readOtherPosts: Read other posts
-    newerPosts: Newer posts
-    olderPosts: Older posts
-    dateFormatSingle: 2006-01-02
-    dateFormatList: 2006-01-02
+    # title: Your site title
+    # subtitle: Your site subtitle
+    # keywords: ''
+    # menuMore: Show more
+    # writtenBy:  Written by
+    # readMore: Read more
+    # readOtherPosts: Read other posts
+    # newerPosts: Newer posts
+    # olderPosts: Older posts
+    # dateFormatSingle: 2006-01-02
+    # dateFormatList: 2006-01-02
     
-    params:
-      logo:
-        logoText: hello friend
-        logoHomeLink: /
+    # params:
+    #   logo:
+    #     logoText: hello friend
+    #     logoHomeLink: /
     #   or
     #
     #   path: /img/your-example-logo.svg
